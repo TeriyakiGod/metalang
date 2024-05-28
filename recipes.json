@@ -1,0 +1,271 @@
+{
+    "recipes": [
+        {
+            "name": "Spaghetti Bolognese",
+            "description": "A classic Italian pasta dish.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Dinner",
+            "dietary": "Gluten",
+            "ingredients": [
+                "200g spaghetti",
+                "100g minced beef",
+                "1 onion",
+                "2 cloves of garlic",
+                "400g canned tomatoes",
+                "Salt",
+                "Pepper",
+                "Olive oil"
+            ],
+            "steps": [
+                "Cook spaghetti according to package instructions.",
+                "Heat olive oil in a pan, sauté onions and garlic.",
+                "Add minced beef, cook until browned.",
+                "Add canned tomatoes, salt, and pepper. Simmer for 20 minutes.",
+                "Serve sauce over spaghetti."
+            ],
+            "prep_time": "30 minutes",
+            "cook_time": "20 minutes"
+        },
+        {
+            "name": "Chicken Curry",
+            "description": "A spicy and flavorful chicken curry.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Dinner",
+            "dietary": "Gluten-Free",
+            "ingredients": [
+                "500g chicken breast",
+                "2 onions",
+                "3 cloves of garlic",
+                "1 thumb-sized piece of ginger",
+                "400g canned tomatoes",
+                "200ml coconut milk",
+                "2 tbsp curry powder",
+                "Salt",
+                "Pepper",
+                "Olive oil"
+            ],
+            "steps": [
+                "Dice chicken breast.",
+                "Heat olive oil in a pan, sauté onions, garlic, and ginger.",
+                "Add chicken, cook until browned.",
+                "Add curry powder, canned tomatoes, and coconut milk. Simmer for 30 minutes.",
+                "Serve with rice."
+            ],
+            "prep_time": "20 minutes",
+            "cook_time": "40 minutes"
+        },
+        {
+            "name": "Vegetable Stir Fry",
+            "description": "A quick and healthy vegetable stir fry.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Lunch",
+            "dietary": "Vegetarian",
+            "ingredients": [
+                "1 broccoli",
+                "2 carrots",
+                "1 bell pepper",
+                "100g snap peas",
+                "2 cloves of garlic",
+                "1 thumb-sized piece of ginger",
+                "2 tbsp soy sauce",
+                "1 tbsp sesame oil",
+                "Salt",
+                "Pepper"
+            ],
+            "steps": [
+                "Chop vegetables.",
+                "Heat sesame oil in a wok, sauté garlic and ginger.",
+                "Add vegetables, stir fry for 5-7 minutes.",
+                "Add soy sauce, salt, and pepper to taste.",
+                "Serve with rice or noodles."
+            ],
+            "prep_time": "15 minutes",
+            "cook_time": "10 minutes"
+        },
+        {
+            "name": "Pancakes",
+            "description": "Fluffy and delicious pancakes.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Breakfast",
+            "dietary": "Gluten",
+            "ingredients": [
+                "200g flour",
+                "2 eggs",
+                "300ml milk",
+                "2 tbsp sugar",
+                "1 tbsp baking powder",
+                "Pinch of salt",
+                "Butter for cooking"
+            ],
+            "steps": [
+                "Mix dry ingredients in a bowl.",
+                "In another bowl, whisk eggs and milk.",
+                "Combine wet and dry ingredients, stir until smooth.",
+                "Heat butter in a pan, pour batter to form pancakes.",
+                "Cook until bubbles form, flip and cook until golden.",
+                "Serve with syrup or your favorite toppings."
+            ],
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes"
+        },
+        {
+            "name": "Caesar Salad",
+            "description": "A classic Caesar salad with homemade dressing.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Lunch",
+            "dietary": "Gluten",
+            "ingredients": [
+                "1 romaine lettuce",
+                "50g grated Parmesan cheese",
+                "Croutons",
+                "1 clove of garlic",
+                "2 anchovy fillets",
+                "1 egg yolk",
+                "1 tsp Dijon mustard",
+                "2 tbsp lemon juice",
+                "4 tbsp olive oil",
+                "Salt",
+                "Pepper"
+            ],
+            "steps": [
+                "Chop romaine lettuce and place in a bowl.",
+                "Prepare dressing: mash garlic and anchovies, whisk with egg yolk, mustard, lemon juice, and olive oil.",
+                "Toss lettuce with dressing, add Parmesan and croutons.",
+                "Season with salt and pepper."
+            ],
+            "prep_time": "15 minutes",
+            "cook_time": "0 minutes"
+        },
+        {
+            "name": "Chocolate Chip Cookies",
+            "description": "Crispy on the outside, chewy on the inside cookies.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Dessert",
+            "dietary": "Gluten",
+            "ingredients": [
+                "200g flour",
+                "1/2 tsp baking soda",
+                "1/2 tsp salt",
+                "100g butter",
+                "100g sugar",
+                "100g brown sugar",
+                "1 egg",
+                "1 tsp vanilla extract",
+                "150g chocolate chips"
+            ],
+            "steps": [
+                "Preheat oven to 180°C (350°F).",
+                "Mix flour, baking soda, and salt in a bowl.",
+                "In another bowl, beat butter and sugars until creamy. Add egg and vanilla.",
+                "Gradually mix in dry ingredients, fold in chocolate chips.",
+                "Drop spoonfuls of dough onto baking sheet.",
+                "Bake for 10-12 minutes, until golden brown."
+            ],
+            "prep_time": "15 minutes",
+            "cook_time": "12 minutes"
+        },
+        {
+            "name": "Minestrone Soup",
+            "description": "A hearty vegetable and pasta soup.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Dinner",
+            "dietary": "Vegetarian",
+            "ingredients": [
+                "1 onion",
+                "2 carrots",
+                "2 celery stalks",
+                "2 cloves of garlic",
+                "1 zucchini",
+                "400g canned tomatoes",
+                "1 can of beans",
+                "1 cup pasta",
+                "4 cups vegetable broth",
+                "Salt",
+                "Pepper",
+                "Olive oil",
+                "Parmesan cheese (optional)"
+            ],
+            "steps": [
+                "Chop vegetables.",
+                "Heat olive oil in a pot, sauté onion, carrots, celery, and garlic.",
+                "Add zucchini, canned tomatoes, beans, and broth. Bring to a boil.",
+                "Add pasta, simmer until tender.",
+                "Season with salt and pepper. Serve with Parmesan if desired."
+            ],
+            "prep_time": "20 minutes",
+            "cook_time": "30 minutes"
+        },
+        {
+            "name": "Avocado Toast",
+            "description": "A simple and nutritious breakfast.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Breakfast",
+            "dietary": "Vegetarian",
+            "ingredients": [
+                "2 slices of bread",
+                "1 ripe avocado",
+                "Salt",
+                "Pepper",
+                "Lemon juice",
+                "Red pepper flakes (optional)"
+            ],
+            "steps": [
+                "Toast the bread.",
+                "Mash avocado in a bowl, season with salt, pepper, and lemon juice.",
+                "Spread avocado on toast.",
+                "Sprinkle with red pepper flakes if desired."
+            ],
+            "prep_time": "5 minutes",
+            "cook_time": "5 minutes"
+        },
+        {
+            "name": "Beef Tacos",
+            "description": "Flavorful beef tacos with fresh toppings.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Dinner",
+            "dietary": "Gluten",
+            "ingredients": [
+                "500g ground beef",
+                "1 onion",
+                "2 cloves of garlic",
+                "1 packet taco seasoning",
+                "8 taco shells",
+                "1 cup shredded lettuce",
+                "1 cup diced tomatoes",
+                "1 cup shredded cheese",
+                "Sour cream (optional)",
+                "Olive oil"
+            ],
+            "steps": [
+                "Heat olive oil in a pan, sauté onions and garlic.",
+                "Add ground beef, cook until browned.",
+                "Stir in taco seasoning and water, simmer for 10 minutes.",
+                "Warm taco shells according to package instructions.",
+                "Assemble tacos with beef, lettuce, tomatoes, cheese, and sour cream."
+            ],
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes"
+        },
+        {
+            "name": "Fruit Smoothie",
+            "description": "A refreshing and healthy fruit smoothie.",
+            "image": "https://via.placeholder.com/200",
+            "category": "Breakfast",
+            "dietary": "Vegetarian",
+            "ingredients": [
+                "1 banana",
+                "1 cup frozen berries",
+                "1 cup spinach",
+                "1 cup almond milk",
+                "1 tbsp honey"
+            ],
+            "steps": [
+                "Combine all ingredients in a blender.",
+                "Blend until smooth.",
+                "Serve immediately."
+            ],
+            "prep_time": "5 minutes",
+            "cook_time": "0 minutes"
+        }
+    ]
+}

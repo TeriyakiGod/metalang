@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Recipe Book</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1 style="margin: 0;">Smart Recipe Book</h1>
+        <h6 style="margin-top: 5px; margin-bottom: 15px;">Created by Kacper Akdag-Ochnik</h6>
+        <nav>
+            <div>
+                <input type="text" id="search" placeholder="Search recipes...">
+                <select id="category-filter">
+                    <option value="">All Categories</option>
+                    <option value="Breakfast">Breakfast</option>
+                    <option value="Lunch">Lunch</option>
+                    <option value="Dinner">Dinner</option>
+                    <option value="Dessert">Dessert</option>
+                </select>
+                <select id="diet-filter">
+                    <option value="">All Diets</option>
+                    <option value="Vegetarian">Vegetarian</option>
+                    <option value="Gluten-Free">Gluten-Free</option>
+                </select>
+            </div>
+            <div>
+                <button id="add-recipe">Add Recipe</button>
+                <button id="load-recipes">Load Recipes</button>
+                <button id="save-recipes">Save Recipes</button>
+                <button id="reset-recipes">Reset Recipes</button>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section id="recipe-list">
+            <!-- Recipes will be dynamically inserted here -->
+        </section>
+    </main>
+    <footer>
+        <p style="text-align: center;">&copy; 2024 Kacper Akdag-Ochnik</p>
+    </footer>
+    <script src="index.js"></script>
+</body>
+
+</html>

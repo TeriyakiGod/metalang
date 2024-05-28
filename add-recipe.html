@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Recipe - Interactive Recipe Book</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Add a New Recipe</h1>
+        <div>
+            <button onclick="window.location.href='index.html'">Home</button>
+        </div>
+    </header>
+    <main>
+        <section id="add-recipe-page">
+            <form id="add-recipe-form">
+                <input type="text" id="recipe-name" placeholder="Recipe Name" required>
+                <input type="text" id="recipe-description" placeholder="Short Description" required>
+                <input type="url" id="recipe-image" placeholder="Image URL" required>
+                <input type="text" id="recipe-category" placeholder="Category" required>
+                <input type="text" id="recipe-dietary" placeholder="Dietary Preference" required>
+                <textarea id="recipe-ingredients" placeholder="Ingredients (comma separated)" required></textarea>
+                <textarea id="recipe-steps" placeholder="Steps (comma separated)" required></textarea>
+                <input type="text" id="recipe-prep-time" placeholder="Preparation Time" required>
+                <input type="text" id="recipe-cook-time" placeholder="Cooking Time" required>
+                <button type="submit">Add Recipe</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p style="text-align: center;">&copy; 2024 Kacper Akdag-Ochnik</p>
+    </footer>
+    <script src="add-recipe.js"></script>
+</body>
+
+</html>
